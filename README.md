@@ -1,6 +1,6 @@
 # Data Hackathon MWC22
 
-## EDA
+## EDA
 
 ## Data Prediction
 ### Linear Regression
